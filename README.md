@@ -1,3 +1,3 @@
 # Light-Dark-Mode
 Simple Website Template with Dark and Light Themes toggler
-<a href='https://github.com/anishrajput72/light-and-dark-mode-website'> View Live</a>
+<a href='file:///C:/Users/Anish%20Singh/Desktop/Light-Dark-Mode-master/index.html> View Live</a>
